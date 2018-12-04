@@ -1,0 +1,14 @@
+state,added_to_state_summary_collection,added_to_state_nibrs_collection,number_of_summary_agencies,number_of_nibrs_agencies
+Delaware,No,true,0,58
+Indiana,,,370,0
+Maryland,Yes,false,155,0
+Michigan,No,true,11,649
+Mississippia,,,228,4
+Missouri,Yes,true,616,13
+Montana,No,true,7,110
+Nevada,Yes,false,53,0
+Ohio,Noa,true,280,561
+Oregon,No,true,180,67
+South Dakota,No,true,9,137
+Tennessee,No,true,0,466
+Washington,No,true,51,223
