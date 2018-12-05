@@ -1,0 +1,50 @@
+state_state,offense_offense,juvenile_juvenile_male,juvenile_juvenile_female,adult_adult_male,adult_adult_female
+Alaska,Commercial sex acts,0,0,3,0
+Alaska,Involuntary servitude,0,0,0,0
+Arizona,Commercial sex acts,0,0,0,0
+Arizona,Involuntary servitude,0,0,20,14
+Arkansas,Commercial sex acts,0,0,1,0
+Arkansas,Involuntary servitude,0,0,0,0
+California*,Commercial sex acts,0,0,1,0
+California*,Involuntary servitude,0,0,0,0
+Colorado,Commercial sex acts,0,0,1,0
+Colorado,Involuntary servitude,0,0,1,1
+Connecticut,Commercial sex acts,0,0,0,0
+Connecticut,Involuntary servitude,0,0,10,4
+Indiana,Commercial sex acts,0,0,2,0
+Indiana,Involuntary servitude,0,0,0,0
+Louisiana,Commercial sex acts,0,0,6,1
+Louisiana,Involuntary servitude,0,0,4,5
+Maryland,Commercial sex acts,0,0,12,1
+Maryland,Involuntary servitude,0,0,4,0
+Massachusetts,Commercial sex acts,0,0,2,0
+Massachusetts,Involuntary servitude,0,0,0,0
+Michigan,Commercial sex acts,0,0,1,0
+Michigan,Involuntary servitude,0,0,0,0
+Minnesota,Commercial sex acts,0,0,195,11
+Minnesota,Involuntary servitude,0,0,0,0
+Missouri,Commercial sex acts,1,0,7,2
+Missouri,Involuntary servitude,0,0,1,1
+Montana,Commercial sex acts,0,0,1,0
+Montana,Involuntary servitude,0,0,0,0
+Nevada,Commercial sex acts,0,1,27,5
+Nevada,Involuntary servitude,0,0,6,1
+North Dakota,Commercial sex acts,0,0,1,0
+North Dakota,Involuntary servitude,0,0,0,0
+Oklahoma,Commercial sex acts,6,4,19,14
+Oklahoma,Involuntary servitude,0,0,1,0
+Rhode Island,Commercial sex acts,0,0,2,0
+Rhode Island,Involuntary servitude,0,0,0,0
+South Carolina,Commercial sex acts,0,0,4,2
+South Carolina,Involuntary servitude,0,0,0,0
+Tennessee,Commercial sex acts,0,0,20,2
+Tennessee,Involuntary servitude,0,0,0,0
+Texas,Commercial sex acts,1,39,352,119
+Texas,Involuntary servitude,0,0,9,5
+Washington,Commercial sex acts,0,0,0,0
+Washington,Involuntary servitude,1,3,0,0
+Wisconsin,Commercial sex acts,0,0,9,4
+Wisconsin,Involuntary servitude,0,0,0,0
+Wyoming,Commercial sex acts,0,0,1,1
+Wyoming,Involuntary servitude,0,0,1,0
+* Data submitted through the Bureau of Indian Affairs.,,,,,
