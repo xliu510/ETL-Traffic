@@ -7,7 +7,7 @@ pymysql.install_as_MySQLdb()
 # DB Setup
 #################################################
 
-db = pymysql.connect("localhost", "root", "W0deSQL", "ETL_Traffic_UK")
+db = pymysql.connect("localhost", "root", "<password>", "ETL_Traffic_UK")
 
 #################################################
 # Flask Setup
