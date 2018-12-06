@@ -1,10 +1,13 @@
+#################################################
+# Importing Dependencies
+#################################################
+
 from flask import Flask, jsonify, request, render_template
 import pymysql
 pymysql.install_as_MySQLdb()
 
-
 #################################################
-# DB Setup
+# DataBase Setup
 #################################################
 
 db = pymysql.connect("localhost", "root", "<password>", "ETL_Traffic_UK")
@@ -17,12 +20,16 @@ app = Flask(__name__)
 #api = Api(app)
 
 #################################################
-# Flask Routes
+# Flask Routes, Main Route
 #################################################
 
 @app.route("/")
 def main():
     return render_template('index.html')
+
+#################################################
+# Flask Routes, 2014 Route
+#################################################
 
 @app.route("/data2014")
 def data2014():
@@ -35,6 +42,10 @@ def data2014():
 if __name__ == '__main__':
     app.run(debug=True)
 
+#################################################
+# Flask Routes, 2015 Route
+#################################################
+
 @app.route("/data2015")
 def data2015():
     cursor = db.cursor()
@@ -45,6 +56,10 @@ def data2015():
 
 if __name__ == '__main__':
     app.run(debug=True)
+
+#################################################
+# Flask Routes, 2016 Route
+#################################################
 
 @app.route("/data2016")
 def data2016():
