@@ -1,3 +1,0 @@
-CREATE DATABASE ETL_Traffic;
-USE ETL_Traffic;
-
