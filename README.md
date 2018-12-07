@@ -7,7 +7,6 @@ Our topic is about Human Trafficking in the United Kingdom between years 2014 to
 This project provides us the platform to demonastrate our ability to Extract, Transform and Load data from various resources and put them into a database. In our case, we have loaded the data into MySQL.
 
 
-
 ### We have created a flask app.py file to showcase our work. In order to see it, please follow the directions listed below.
 1) Run ETL-Traffick.sql in MySQL Workbench.
 2) Run human-trafficking.ipynb in jupyter notebook. (Make sure to update the password in the .ipynb file!)
