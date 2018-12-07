@@ -39,9 +39,6 @@ def data2014():
     results = cursor.fetchall()
     return render_template('data2014.html', results=results)
 
-if __name__ == '__main__':
-    app.run(debug=True)
-
 #################################################
 # Flask Routes, 2015 Route
 #################################################
@@ -53,9 +50,6 @@ def data2015():
     cursor.execute(sql)
     results2015 = cursor.fetchall()
     return render_template('data2015.html', results2015=results2015)
-
-if __name__ == '__main__':
-    app.run(debug=True)
 
 #################################################
 # Flask Routes, 2016 Route
