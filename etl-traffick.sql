@@ -46,7 +46,7 @@ CREATE TABLE  if not exists referrals_all_df_2014 (
 #################################################
 
 # Creating 2015 Minor DataBase
-CREATE TABLE if not exists minor_trafficking_UK_2015 (
+CREATE TABLE if not exists minor_trafficking_uk_2015 (
 	id INT NOT NULL AUTO_INCREMENT,
 	Year INT,
 	Nationality VARCHAR(250),
@@ -59,7 +59,7 @@ CREATE TABLE if not exists minor_trafficking_UK_2015 (
 	PRIMARY KEY(id));
 
 # Creating 2015 Adult DataBase
-CREATE TABLE if not exists adult_trafficking_UK_2015 (
+CREATE TABLE if not exists adult_trafficking_uk_2015 (
 	id INT NOT NULL AUTO_INCREMENT,
 	Year INT,
 	Nationality VARCHAR(250),
@@ -72,7 +72,7 @@ CREATE TABLE if not exists adult_trafficking_UK_2015 (
 	PRIMARY KEY(id));
 
 # Creating 2015 All DataBase
-CREATE TABLE if not exists all_trafficking_UK_2015 (
+CREATE TABLE if not exists all_trafficking_uk_2015 (
 	id INT NOT NULL AUTO_INCREMENT,
 	Year INT,
 	Nationality VARCHAR(250),
@@ -86,7 +86,7 @@ CREATE TABLE if not exists all_trafficking_UK_2015 (
     
 
 # Creating 2015 Minor and Adult DataBase
-CREATE TABLE if not exists trafficking_UK_2015 (
+CREATE TABLE if not exists trafficking_uk_2015 (
 	id INT NOT NULL AUTO_INCREMENT,
 	Year INT,
 	Nationality VARCHAR(250),
@@ -110,7 +110,7 @@ CREATE TABLE if not exists trafficking_UK_2015 (
 #################################################
 
 # Creating 2016 Minor DataBase
-CREATE TABLE if not exists minor_trafficking_UK_2016 (
+CREATE TABLE if not exists minor_trafficking_uk_2016 (
 	id INT NOT NULL AUTO_INCREMENT,
 	Year INT,
 	Nationality VARCHAR(250),
@@ -123,7 +123,7 @@ CREATE TABLE if not exists minor_trafficking_UK_2016 (
 	PRIMARY KEY(id));
 
 # Creating 2016 Adult DataBase
-CREATE TABLE if not exists adult_trafficking_UK_2016 (
+CREATE TABLE if not exists adult_trafficking_uk_2016 (
 	id INT NOT NULL AUTO_INCREMENT,
 	Year INT,
 	Nationality VARCHAR(250),
@@ -136,7 +136,7 @@ CREATE TABLE if not exists adult_trafficking_UK_2016 (
 	PRIMARY KEY(id));
 
 # Creating 2016 All DataBase
-CREATE TABLE if not exists all_trafficking_UK_2016 (
+CREATE TABLE if not exists all_trafficking_uk_2016 (
 	id INT NOT NULL AUTO_INCREMENT,
 	Year INT,
 	Nationality VARCHAR(250),
@@ -150,7 +150,7 @@ CREATE TABLE if not exists all_trafficking_UK_2016 (
     show tables;
     
 # Creating 2016 Minor and Adult DataBase
-CREATE TABLE if not exists trafficking_UK_2016 (
+CREATE TABLE if not exists trafficking_uk_2016 (
 	id INT NOT NULL AUTO_INCREMENT,
 	Year INT,
 	Nationality VARCHAR(250),
