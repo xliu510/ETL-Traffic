@@ -1,6 +1,6 @@
 # ETL-Traffic
 
-Welcome to our ETL Project Webpage!
+Welcome to our ETL Group Project Webpage!
 
 Our topic is about Human Trafficking in the United Kingdom between years 2014 to 2016.
 
