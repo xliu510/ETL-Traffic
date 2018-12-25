@@ -8,9 +8,11 @@ This project provides us the platform to demonastrate our ability to Extract, Tr
 
 
 ### We have created a flask app.py file to showcase our work. In order to see it, please follow the directions listed below.
+```Python 
 1) Run ETL-Traffick.sql in MySQL Workbench.
 2) Run human-trafficking.ipynb in jupyter notebook. (Make sure to update the password in the .ipynb file!)
 3) Run ETL-run-after-ipynb.sql in MySQL Workbench.
 4) Run app.py in command line or anaconda prompt. (Make sure to update the password in the .py file!)
+```
 
 ![my picture](Pictures/UK-Trafficking.PNG)
